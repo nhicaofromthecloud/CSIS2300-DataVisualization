@@ -1,2 +1,3 @@
 # CSIS2300-DataVisualization
 If Vancouver Regional District 's visible minorities were 100 people ...
+
